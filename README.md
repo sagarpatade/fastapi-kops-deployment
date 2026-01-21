@@ -19,15 +19,15 @@ The project demonstrates a complete DevOps workflow: from Dockerizing a Python a
 
 ### 1. Cluster Validation
 *Infrastructure health check verifying Control Plane and Worker nodes are ready.*
-![Cluster Validation](screenshots/Screenshot%20from%202026-01-21%2020-31-27.png)
+
 
 ### 2. Application Deployment Status
 *Pods running successfully in the `curadocs` namespace.*
-![Pod Status](screenshots/Screenshot%20from%202026-01-21%2020-31-27.png)
+
 
 ### 3. Public Access & Health Check
 *External access via AWS Load Balancer confirming the API is live.*
-![Health Check](screenshots/Screenshot%20from%202026-01-21%2019-34-11.png)
+
 
 ---
 
